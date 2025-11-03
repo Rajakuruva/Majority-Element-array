@@ -92,9 +92,9 @@ print(majority_element([3]))                    # Output: 3
 ---
 
 | Step | Operation | Time | Space |
-|--------|--------|
-| `Candidate Selection` | `Single traversal` | `O(n)` | `O(1)` |
-| `Verification` | `Counting candidate` | `O(n)` | `O(1)` |
-| `Total` | `O(n)` | `O(1)` |
+|------|------------|------|-------|
+| Candidate Selection | Single traversal | O(n) | O(1) |
+| Verification | Counting candidate | O(n) | O(1) |
+| **Total** |  | **O(n)** | **O(1)** |
 
 ---
